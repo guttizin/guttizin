@@ -10,9 +10,9 @@
 <!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=guttizin&theme=gotham) -->
 <!-- ![Animação_de_cobra](https://github.com/guttizin/guttizin/blob/output/github-contribution-grid-snake.svg) -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=guttizin&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/carl%CA%9As/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
